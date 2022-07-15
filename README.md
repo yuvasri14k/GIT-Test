@@ -1,3 +1,3 @@
-# GIT-Test
+GIT-Test
 
 test 1
